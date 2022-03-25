@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingXuefeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Me
+## Me
 - Postdoc @ Princeton University.
 - Members of Borexino collaboration.
 
-# Research
+## Research
 - Implications on solar physics with Borexino data (WIP)
-- Experimental evidence of solar neutrinos from the CNO-cycle
-- High precision measurment of solar neutrinos with Borexino and JUNO detectors (2019 PhD thesis)
+- Experimental evidence of solar neutrinos from the CNO-cycle ([2020 Nature](https://doi.org/10.1038/s41586-020-2934-0))
+- High precision measurment of solar neutrinos with Borexino and JUNO detectors ([2019 PhD thesis](https://inspirehep.net/literature/1763930))
 
-# Project
+## Project
 - [GooStats](https://github.com/GooStats/GooStats) A multi-variate GPU fitting tool based on thrust and CERN ROOT.
 - [HOA wiki](https://github.com/HorizonAsk/) Next generation of knowledge management system.
 
-# Contact Me
+## Contact Me
 - EMAIL: xuefeng.ding.physics@gmail.com and xuefengd@princeton.edu
